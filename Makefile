@@ -1,5 +1,5 @@
 FLAGS=-Wall -g
 
-all: ex26
+all: simple-grep
 clean:
-	rm -f ex26
+	rm -f simple-grep
