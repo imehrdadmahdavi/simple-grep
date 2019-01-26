@@ -1,6 +1,6 @@
 # Simple grep Tool
 
-This is a basic program written in C to search for words in different set of files.
+This is a basic prototype written in C to search for words in different set of files.
 
 ## Demo
 ```shell
