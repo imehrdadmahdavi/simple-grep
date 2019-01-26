@@ -10,9 +10,9 @@ cc -Wall -g    simple-grep.c   -o simple-grep
 
 # search for the words "this", "is", and "mehrdad"
 # in files listed in .filelist
-this	: found in test.txt -> line: 1
-this	: found in test.txt -> line: 2
-is	: found in test.txt -> line: 1
-is	: found in test.txt -> line: 2
-mehrdad	: found in test1.txt -> line: 1
+this	: found in test.txt	->line: 1
+this	: found in test.txt	->line: 2
+is	: found in test.txt	->line: 1
+is	: found in test.txt	->line: 2
+mehrdad	: found in test1.txt	->line: 1
 ```
